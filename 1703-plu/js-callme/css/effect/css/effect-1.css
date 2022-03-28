@@ -1,0 +1,12 @@
+.j-callme__content {
+  opacity: 0;
+  -webkit-transition: all 0.3s;
+  transition: all 0.3s;
+}
+.j-callme--open {
+  visibility: visible;
+  opacity: 1;
+}
+.j-callme--open .j-callme__content {
+  opacity: 1;
+}

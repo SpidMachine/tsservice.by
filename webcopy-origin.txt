@@ -1,0 +1,836 @@
+Uri: https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor:f84c92ab2000fb075da6139493aa801ed748a2d7827e3dacabbfcb1ab25ab587&width=100%25&height=400&lang=ru_RU&scroll=true
+File Name: C:\Downloaded Web Sites\tsservice.by\services\constructor\1.0\js\index.htm
+Content Type: application/javascript
+
+Uri: https://fonts.gstatic.com/s/spectral/v7/rnCr-xNNww_2s0amA9M2knj-SA.woff2
+File Name: C:\Downloaded Web Sites\tsservice.by\s\spectral\v7\rnCr-xNNww_2s0amA9M2knj-SA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/spectral/v7/rnCr-xNNww_2s0amA9M3knj-SA.woff2
+File Name: C:\Downloaded Web Sites\tsservice.by\s\spectral\v7\rnCr-xNNww_2s0amA9M3knj-SA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/spectral/v7/rnCr-xNNww_2s0amA9M5kng.woff2
+File Name: C:\Downloaded Web Sites\tsservice.by\s\spectral\v7\rnCr-xNNww_2s0amA9M5kng.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/spectral/v7/rnCr-xNNww_2s0amA9M9knj-SA.woff2
+File Name: C:\Downloaded Web Sites\tsservice.by\s\spectral\v7\rnCr-xNNww_2s0amA9M9knj-SA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/spectral/v7/rnCs-xNNww_2s0amA9uCt23BafY.woff2
+File Name: C:\Downloaded Web Sites\tsservice.by\s\spectral\v7\rnCs-xNNww_2s0amA9uCt23BafY.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/spectral/v7/rnCs-xNNww_2s0amA9uCt23FafadWQ.woff2
+File Name: C:\Downloaded Web Sites\tsservice.by\s\spectral\v7\rnCs-xNNww_2s0amA9uCt23FafadWQ.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/spectral/v7/rnCs-xNNww_2s0amA9uCt23OafadWQ.woff2
+File Name: C:\Downloaded Web Sites\tsservice.by\s\spectral\v7\rnCs-xNNww_2s0amA9uCt23OafadWQ.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/spectral/v7/rnCs-xNNww_2s0amA9uCt23PafadWQ.woff2
+File Name: C:\Downloaded Web Sites\tsservice.by\s\spectral\v7\rnCs-xNNww_2s0amA9uCt23PafadWQ.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/spectral/v7/rnCs-xNNww_2s0amA9uetG3BafY.woff2
+File Name: C:\Downloaded Web Sites\tsservice.by\s\spectral\v7\rnCs-xNNww_2s0amA9uetG3BafY.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/spectral/v7/rnCs-xNNww_2s0amA9uetG3FafadWQ.woff2
+File Name: C:\Downloaded Web Sites\tsservice.by\s\spectral\v7\rnCs-xNNww_2s0amA9uetG3FafadWQ.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/spectral/v7/rnCs-xNNww_2s0amA9uetG3OafadWQ.woff2
+File Name: C:\Downloaded Web Sites\tsservice.by\s\spectral\v7\rnCs-xNNww_2s0amA9uetG3OafadWQ.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/spectral/v7/rnCs-xNNww_2s0amA9uetG3PafadWQ.woff2
+File Name: C:\Downloaded Web Sites\tsservice.by\s\spectral\v7\rnCs-xNNww_2s0amA9uetG3PafadWQ.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/spectral/v7/rnCs-xNNww_2s0amA9uSsG3BafY.woff2
+File Name: C:\Downloaded Web Sites\tsservice.by\s\spectral\v7\rnCs-xNNww_2s0amA9uSsG3BafY.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/spectral/v7/rnCs-xNNww_2s0amA9uSsG3FafadWQ.woff2
+File Name: C:\Downloaded Web Sites\tsservice.by\s\spectral\v7\rnCs-xNNww_2s0amA9uSsG3FafadWQ.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/spectral/v7/rnCs-xNNww_2s0amA9uSsG3OafadWQ.woff2
+File Name: C:\Downloaded Web Sites\tsservice.by\s\spectral\v7\rnCs-xNNww_2s0amA9uSsG3OafadWQ.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/spectral/v7/rnCs-xNNww_2s0amA9uSsG3PafadWQ.woff2
+File Name: C:\Downloaded Web Sites\tsservice.by\s\spectral\v7\rnCs-xNNww_2s0amA9uSsG3PafadWQ.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/spectral/v7/rnCs-xNNww_2s0amA9v2s23BafY.woff2
+File Name: C:\Downloaded Web Sites\tsservice.by\s\spectral\v7\rnCs-xNNww_2s0amA9v2s23BafY.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/spectral/v7/rnCs-xNNww_2s0amA9v2s23FafadWQ.woff2
+File Name: C:\Downloaded Web Sites\tsservice.by\s\spectral\v7\rnCs-xNNww_2s0amA9v2s23FafadWQ.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/spectral/v7/rnCs-xNNww_2s0amA9v2s23OafadWQ.woff2
+File Name: C:\Downloaded Web Sites\tsservice.by\s\spectral\v7\rnCs-xNNww_2s0amA9v2s23OafadWQ.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/spectral/v7/rnCs-xNNww_2s0amA9v2s23PafadWQ.woff2
+File Name: C:\Downloaded Web Sites\tsservice.by\s\spectral\v7\rnCs-xNNww_2s0amA9v2s23PafadWQ.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/spectral/v7/rnCs-xNNww_2s0amA9vKsW3BafY.woff2
+File Name: C:\Downloaded Web Sites\tsservice.by\s\spectral\v7\rnCs-xNNww_2s0amA9vKsW3BafY.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/spectral/v7/rnCs-xNNww_2s0amA9vKsW3FafadWQ.woff2
+File Name: C:\Downloaded Web Sites\tsservice.by\s\spectral\v7\rnCs-xNNww_2s0amA9vKsW3FafadWQ.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/spectral/v7/rnCs-xNNww_2s0amA9vKsW3OafadWQ.woff2
+File Name: C:\Downloaded Web Sites\tsservice.by\s\spectral\v7\rnCs-xNNww_2s0amA9vKsW3OafadWQ.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/spectral/v7/rnCs-xNNww_2s0amA9vKsW3PafadWQ.woff2
+File Name: C:\Downloaded Web Sites\tsservice.by\s\spectral\v7\rnCs-xNNww_2s0amA9vKsW3PafadWQ.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/spectral/v7/rnCs-xNNww_2s0amA9vmtm3BafY.woff2
+File Name: C:\Downloaded Web Sites\tsservice.by\s\spectral\v7\rnCs-xNNww_2s0amA9vmtm3BafY.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/spectral/v7/rnCs-xNNww_2s0amA9vmtm3FafadWQ.woff2
+File Name: C:\Downloaded Web Sites\tsservice.by\s\spectral\v7\rnCs-xNNww_2s0amA9vmtm3FafadWQ.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/spectral/v7/rnCs-xNNww_2s0amA9vmtm3OafadWQ.woff2
+File Name: C:\Downloaded Web Sites\tsservice.by\s\spectral\v7\rnCs-xNNww_2s0amA9vmtm3OafadWQ.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/spectral/v7/rnCs-xNNww_2s0amA9vmtm3PafadWQ.woff2
+File Name: C:\Downloaded Web Sites\tsservice.by\s\spectral\v7\rnCs-xNNww_2s0amA9vmtm3PafadWQ.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/spectral/v7/rnCt-xNNww_2s0amA9M8on7mTMuk.woff2
+File Name: C:\Downloaded Web Sites\tsservice.by\s\spectral\v7\rnCt-xNNww_2s0amA9M8on7mTMuk.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/spectral/v7/rnCt-xNNww_2s0amA9M8onrmTA.woff2
+File Name: C:\Downloaded Web Sites\tsservice.by\s\spectral\v7\rnCt-xNNww_2s0amA9M8onrmTA.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/spectral/v7/rnCt-xNNww_2s0amA9M8onTmTMuk.woff2
+File Name: C:\Downloaded Web Sites\tsservice.by\s\spectral\v7\rnCt-xNNww_2s0amA9M8onTmTMuk.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/spectral/v7/rnCt-xNNww_2s0amA9M8onXmTMuk.woff2
+File Name: C:\Downloaded Web Sites\tsservice.by\s\spectral\v7\rnCt-xNNww_2s0amA9M8onXmTMuk.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/spectral/v7/rnCu-xNNww_2s0amA9M8qonFWfCFXUIJ.woff2
+File Name: C:\Downloaded Web Sites\tsservice.by\s\spectral\v7\rnCu-xNNww_2s0amA9M8qonFWfCFXUIJ.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/spectral/v7/rnCu-xNNww_2s0amA9M8qonFWfqFXUIJ.woff2
+File Name: C:\Downloaded Web Sites\tsservice.by\s\spectral\v7\rnCu-xNNww_2s0amA9M8qonFWfqFXUIJ.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/spectral/v7/rnCu-xNNww_2s0amA9M8qonFWfSFXQ.woff2
+File Name: C:\Downloaded Web Sites\tsservice.by\s\spectral\v7\rnCu-xNNww_2s0amA9M8qonFWfSFXQ.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/spectral/v7/rnCu-xNNww_2s0amA9M8qonFWfuFXUIJ.woff2
+File Name: C:\Downloaded Web Sites\tsservice.by\s\spectral\v7\rnCu-xNNww_2s0amA9M8qonFWfuFXUIJ.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/spectral/v7/rnCu-xNNww_2s0amA9M8qqXCWfCFXUIJ.woff2
+File Name: C:\Downloaded Web Sites\tsservice.by\s\spectral\v7\rnCu-xNNww_2s0amA9M8qqXCWfCFXUIJ.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/spectral/v7/rnCu-xNNww_2s0amA9M8qqXCWfqFXUIJ.woff2
+File Name: C:\Downloaded Web Sites\tsservice.by\s\spectral\v7\rnCu-xNNww_2s0amA9M8qqXCWfqFXUIJ.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/spectral/v7/rnCu-xNNww_2s0amA9M8qqXCWfSFXQ.woff2
+File Name: C:\Downloaded Web Sites\tsservice.by\s\spectral\v7\rnCu-xNNww_2s0amA9M8qqXCWfSFXQ.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/spectral/v7/rnCu-xNNww_2s0amA9M8qqXCWfuFXUIJ.woff2
+File Name: C:\Downloaded Web Sites\tsservice.by\s\spectral\v7\rnCu-xNNww_2s0amA9M8qqXCWfuFXUIJ.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/spectral/v7/rnCu-xNNww_2s0amA9M8qrXHWfCFXUIJ.woff2
+File Name: C:\Downloaded Web Sites\tsservice.by\s\spectral\v7\rnCu-xNNww_2s0amA9M8qrXHWfCFXUIJ.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/spectral/v7/rnCu-xNNww_2s0amA9M8qrXHWfqFXUIJ.woff2
+File Name: C:\Downloaded Web Sites\tsservice.by\s\spectral\v7\rnCu-xNNww_2s0amA9M8qrXHWfqFXUIJ.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/spectral/v7/rnCu-xNNww_2s0amA9M8qrXHWfSFXQ.woff2
+File Name: C:\Downloaded Web Sites\tsservice.by\s\spectral\v7\rnCu-xNNww_2s0amA9M8qrXHWfSFXQ.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/spectral/v7/rnCu-xNNww_2s0amA9M8qrXHWfuFXUIJ.woff2
+File Name: C:\Downloaded Web Sites\tsservice.by\s\spectral\v7\rnCu-xNNww_2s0amA9M8qrXHWfuFXUIJ.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/spectral/v7/rnCu-xNNww_2s0amA9M8qsHDWfCFXUIJ.woff2
+File Name: C:\Downloaded Web Sites\tsservice.by\s\spectral\v7\rnCu-xNNww_2s0amA9M8qsHDWfCFXUIJ.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/spectral/v7/rnCu-xNNww_2s0amA9M8qsHDWfqFXUIJ.woff2
+File Name: C:\Downloaded Web Sites\tsservice.by\s\spectral\v7\rnCu-xNNww_2s0amA9M8qsHDWfqFXUIJ.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/spectral/v7/rnCu-xNNww_2s0amA9M8qsHDWfSFXQ.woff2
+File Name: C:\Downloaded Web Sites\tsservice.by\s\spectral\v7\rnCu-xNNww_2s0amA9M8qsHDWfSFXQ.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/spectral/v7/rnCu-xNNww_2s0amA9M8qsHDWfuFXUIJ.woff2
+File Name: C:\Downloaded Web Sites\tsservice.by\s\spectral\v7\rnCu-xNNww_2s0amA9M8qsHDWfuFXUIJ.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/spectral/v7/rnCu-xNNww_2s0amA9M8qt3AWfCFXUIJ.woff2
+File Name: C:\Downloaded Web Sites\tsservice.by\s\spectral\v7\rnCu-xNNww_2s0amA9M8qt3AWfCFXUIJ.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/spectral/v7/rnCu-xNNww_2s0amA9M8qt3AWfqFXUIJ.woff2
+File Name: C:\Downloaded Web Sites\tsservice.by\s\spectral\v7\rnCu-xNNww_2s0amA9M8qt3AWfqFXUIJ.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/spectral/v7/rnCu-xNNww_2s0amA9M8qt3AWfSFXQ.woff2
+File Name: C:\Downloaded Web Sites\tsservice.by\s\spectral\v7\rnCu-xNNww_2s0amA9M8qt3AWfSFXQ.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/spectral/v7/rnCu-xNNww_2s0amA9M8qt3AWfuFXUIJ.woff2
+File Name: C:\Downloaded Web Sites\tsservice.by\s\spectral\v7\rnCu-xNNww_2s0amA9M8qt3AWfuFXUIJ.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/spectral/v7/rnCu-xNNww_2s0amA9M8qtHEWfCFXUIJ.woff2
+File Name: C:\Downloaded Web Sites\tsservice.by\s\spectral\v7\rnCu-xNNww_2s0amA9M8qtHEWfCFXUIJ.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/spectral/v7/rnCu-xNNww_2s0amA9M8qtHEWfqFXUIJ.woff2
+File Name: C:\Downloaded Web Sites\tsservice.by\s\spectral\v7\rnCu-xNNww_2s0amA9M8qtHEWfqFXUIJ.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/spectral/v7/rnCu-xNNww_2s0amA9M8qtHEWfSFXQ.woff2
+File Name: C:\Downloaded Web Sites\tsservice.by\s\spectral\v7\rnCu-xNNww_2s0amA9M8qtHEWfSFXQ.woff2
+Content Type: font/woff2
+
+Uri: https://fonts.gstatic.com/s/spectral/v7/rnCu-xNNww_2s0amA9M8qtHEWfuFXUIJ.woff2
+File Name: C:\Downloaded Web Sites\tsservice.by\s\spectral\v7\rnCu-xNNww_2s0amA9M8qtHEWfuFXUIJ.woff2
+Content Type: font/woff2
+
+Uri: https://mc.yandex.ru/watch/86061533
+File Name: C:\Downloaded Web Sites\tsservice.by\watch\86061533
+Content Type: image/gif
+
+Uri: https://tsservice.by/
+File Name: C:\Downloaded Web Sites\tsservice.by\index.htm
+Content Type: text/html
+
+Uri: https://tsservice.by/1703-co/script/engine-script.js?protocol=https&mgBaseDir=https://tsservice.by&currency=руб.&phoneMask=+375 (99) 999-99-99
+File Name: C:\Downloaded Web Sites\tsservice.by\1703-co\script\engine-script.js
+Content Type: application/javascript
+
+Uri: https://tsservice.by/1703-co/script/jquery-1.10.2.min.js
+File Name: C:\Downloaded Web Sites\tsservice.by\1703-co\script\jquery-1.10.2.min.js
+Content Type: application/javascript
+
+Uri: https://tsservice.by/1703-co/script/jquery-ui-1.10.3.custom.min.js
+File Name: C:\Downloaded Web Sites\tsservice.by\1703-co\script\jquery-ui-1.10.3.custom.min.js
+Content Type: application/javascript
+
+Uri: https://tsservice.by/1703-co/script/jquery.bxslider.min.js
+File Name: C:\Downloaded Web Sites\tsservice.by\1703-co\script\jquery.bxslider.min.js
+Content Type: application/javascript
+
+Uri: https://tsservice.by/1703-co/script/jquery.fancybox.pack.js
+File Name: C:\Downloaded Web Sites\tsservice.by\1703-co\script\jquery.fancybox.pack.js
+Content Type: application/javascript
+
+Uri: https://tsservice.by/1703-co/script/jquery.form.js
+File Name: C:\Downloaded Web Sites\tsservice.by\1703-co\script\jquery.form.js
+Content Type: application/javascript
+
+Uri: https://tsservice.by/1703-co/script/jquery.maskedinput.min.js
+File Name: C:\Downloaded Web Sites\tsservice.by\1703-co\script\jquery.maskedinput.min.js
+Content Type: application/javascript
+
+Uri: https://tsservice.by/1703-co/script/standard/css/jquery.fancybox.css
+File Name: C:\Downloaded Web Sites\tsservice.by\1703-co\script\standard\css\jquery.fancybox.css
+Content Type: text/css
+
+Uri: https://tsservice.by/1703-co/script/standard/css/layout.cart.css
+File Name: C:\Downloaded Web Sites\tsservice.by\1703-co\script\standard\css\layout.cart.css
+Content Type: text/css
+
+Uri: https://tsservice.by/1703-co/script/standard/css/layout.fake.cart.css
+File Name: C:\Downloaded Web Sites\tsservice.by\1703-co\script\standard\css\layout.fake.cart.css
+Content Type: text/css
+
+Uri: https://tsservice.by/1703-co/script/standard/images/blank.gif
+File Name: C:\Downloaded Web Sites\tsservice.by\1703-co\script\standard\images\blank.gif
+Content Type: image/gif
+
+Uri: https://tsservice.by/1703-co/script/standard/images/cart.png
+File Name: C:\Downloaded Web Sites\tsservice.by\1703-co\script\standard\images\cart.png
+Content Type: image/png
+
+Uri: https://tsservice.by/1703-co/script/standard/images/delete.png
+File Name: C:\Downloaded Web Sites\tsservice.by\1703-co\script\standard\images\delete.png
+Content Type: image/png
+
+Uri: https://tsservice.by/1703-co/script/standard/images/fancybox_loading.gif
+File Name: C:\Downloaded Web Sites\tsservice.by\1703-co\script\standard\images\fancybox_loading.gif
+Content Type: image/gif
+
+Uri: https://tsservice.by/1703-co/script/standard/images/fancybox_overlay.png
+File Name: C:\Downloaded Web Sites\tsservice.by\1703-co\script\standard\images\fancybox_overlay.png
+Content Type: image/png
+
+Uri: https://tsservice.by/1703-co/script/standard/images/fancybox_sprite.png
+File Name: C:\Downloaded Web Sites\tsservice.by\1703-co\script\standard\images\fancybox_sprite.png
+Content Type: image/png
+
+Uri: https://tsservice.by/1703-co/script/standard/js/layout.images.js
+File Name: C:\Downloaded Web Sites\tsservice.by\1703-co\script\standard\js\layout.images.js
+Content Type: application/javascript
+
+Uri: https://tsservice.by/1703-plu/blog/css/style.css
+File Name: C:\Downloaded Web Sites\tsservice.by\1703-plu\blog\css\style.css
+Content Type: text/css
+
+Uri: https://tsservice.by/1703-plu/blog/images/mg-date-icon.png
+File Name: C:\Downloaded Web Sites\tsservice.by\1703-plu\blog\images\mg-date-icon.png
+Content Type: image/png
+
+Uri: https://tsservice.by/1703-plu/comments/css/style.css
+File Name: C:\Downloaded Web Sites\tsservice.by\1703-plu\comments\css\style.css
+Content Type: text/css
+
+Uri: https://tsservice.by/1703-plu/comments/js/comments.js
+File Name: C:\Downloaded Web Sites\tsservice.by\1703-plu\comments\js\comments.js
+Content Type: application/javascript
+
+Uri: https://tsservice.by/1703-plu/js-callme/css/effect/css/effect-1.css
+File Name: C:\Downloaded Web Sites\tsservice.by\1703-plu\js-callme\css\effect\css\effect-1.css
+Content Type: text/css
+
+Uri: https://tsservice.by/1703-plu/js-callme/css/style/css/default.css
+File Name: C:\Downloaded Web Sites\tsservice.by\1703-plu\js-callme\css\style\css\default.css
+Content Type: text/css
+
+Uri: https://tsservice.by/1703-plu/js-callme/css/style/fonts/default/callme.eot
+File Name: C:\Downloaded Web Sites\tsservice.by\1703-plu\js-callme\css\style\fonts\default\callme.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://tsservice.by/1703-plu/js-callme/css/style/fonts/default/callme.svg
+File Name: C:\Downloaded Web Sites\tsservice.by\1703-plu\js-callme\css\style\fonts\default\callme.svg
+Content Type: image/svg+xml
+
+Uri: https://tsservice.by/1703-plu/js-callme/css/style/fonts/default/callme.ttf
+File Name: C:\Downloaded Web Sites\tsservice.by\1703-plu\js-callme\css\style\fonts\default\callme.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://tsservice.by/1703-plu/js-callme/css/style/fonts/default/callme.woff
+File Name: C:\Downloaded Web Sites\tsservice.by\1703-plu\js-callme\css\style\fonts\default\callme.woff
+Content Type: application/x-font-woff
+
+Uri: https://tsservice.by/1703-plu/js-callme/js/script.js
+File Name: C:\Downloaded Web Sites\tsservice.by\1703-plu\js-callme\js\script.js
+Content Type: application/javascript
+
+Uri: https://tsservice.by/1703-plu/news/css/style.css
+File Name: C:\Downloaded Web Sites\tsservice.by\1703-plu\news\css\style.css
+Content Type: text/css
+
+Uri: https://tsservice.by/1703-plu/slider-action/css/style.css
+File Name: C:\Downloaded Web Sites\tsservice.by\1703-plu\slider-action\css\style.css
+Content Type: text/css
+
+Uri: https://tsservice.by/1703-plu/slider-action/images/large-controls.png
+File Name: C:\Downloaded Web Sites\tsservice.by\1703-plu\slider-action\images\large-controls.png
+Content Type: image/png
+
+Uri: https://tsservice.by/1703-plu/trigger-guarantee/css/font-awesome.min.css
+File Name: C:\Downloaded Web Sites\tsservice.by\1703-plu\trigger-guarantee\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://tsservice.by/1703-plu/trigger-guarantee/css/font-awesome/fonts/fontawesome-webfont.eot?
+File Name: C:\Downloaded Web Sites\tsservice.by\1703-plu\trigger-guarantee\css\font-awesome\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://tsservice.by/1703-plu/trigger-guarantee/css/font-awesome/fonts/fontawesome-webfont.eot?v=4.3.0
+File Name: C:\Downloaded Web Sites\tsservice.by\1703-plu\trigger-guarantee\css\font-awesome\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://tsservice.by/1703-plu/trigger-guarantee/css/font-awesome/fonts/fontawesome-webfont.svg?v=4.3.0
+File Name: C:\Downloaded Web Sites\tsservice.by\1703-plu\trigger-guarantee\css\font-awesome\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://tsservice.by/1703-plu/trigger-guarantee/css/font-awesome/fonts/fontawesome-webfont.ttf?v=4.3.0
+File Name: C:\Downloaded Web Sites\tsservice.by\1703-plu\trigger-guarantee\css\font-awesome\fonts\fontawesome-webfont.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://tsservice.by/1703-plu/trigger-guarantee/css/font-awesome/fonts/fontawesome-webfont.woff2?v=4.3.0
+File Name: C:\Downloaded Web Sites\tsservice.by\1703-plu\trigger-guarantee\css\font-awesome\fonts\fontawesome-webfont.woff2
+Content Type: text/plain
+
+Uri: https://tsservice.by/1703-plu/trigger-guarantee/css/font-awesome/fonts/fontawesome-webfont.woff?v=4.3.0
+File Name: C:\Downloaded Web Sites\tsservice.by\1703-plu\trigger-guarantee\css\font-awesome\fonts\fontawesome-webfont.woff
+Content Type: application/x-font-woff
+
+Uri: https://tsservice.by/1703-plu/trigger-guarantee/css/style.css
+File Name: C:\Downloaded Web Sites\tsservice.by\1703-plu\trigger-guarantee\css\style.css
+Content Type: text/css
+
+Uri: https://tsservice.by/1703-plu/trigger-guarantee/images/check-icon.png
+File Name: C:\Downloaded Web Sites\tsservice.by\1703-plu\trigger-guarantee\images\check-icon.png
+Content Type: image/png
+
+Uri: https://tsservice.by/1703-plu/trigger-guarantee/images/close-icon.png
+File Name: C:\Downloaded Web Sites\tsservice.by\1703-plu\trigger-guarantee\images\close-icon.png
+Content Type: image/png
+
+Uri: https://tsservice.by/1703-plu/trigger-guarantee/images/copy-icon.png
+File Name: C:\Downloaded Web Sites\tsservice.by\1703-plu\trigger-guarantee\images\copy-icon.png
+Content Type: image/png
+
+Uri: https://tsservice.by/1703-plu/trigger-guarantee/images/delete-icon.png
+File Name: C:\Downloaded Web Sites\tsservice.by\1703-plu\trigger-guarantee\images\delete-icon.png
+Content Type: image/png
+
+Uri: https://tsservice.by/1703-plu/trigger-guarantee/images/download-icon.png
+File Name: C:\Downloaded Web Sites\tsservice.by\1703-plu\trigger-guarantee\images\download-icon.png
+Content Type: image/png
+
+Uri: https://tsservice.by/1703-templ/service/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\tsservice.by\1703-templ\service\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://tsservice.by/1703-templ/service/css/flipclock.css
+File Name: C:\Downloaded Web Sites\tsservice.by\1703-templ\service\css\flipclock.css
+Content Type: text/css
+
+Uri: https://tsservice.by/1703-templ/service/css/mobile.css
+File Name: C:\Downloaded Web Sites\tsservice.by\1703-templ\service\css\mobile.css
+Content Type: text/css
+
+Uri: https://tsservice.by/1703-templ/service/css/owl.carousel.css
+File Name: C:\Downloaded Web Sites\tsservice.by\1703-templ\service\css\owl.carousel.css
+Content Type: text/css
+
+Uri: https://tsservice.by/1703-templ/service/css/style.css
+File Name: C:\Downloaded Web Sites\tsservice.by\1703-templ\service\css\style.css
+Content Type: text/css
+
+Uri: https://tsservice.by/1703-templ/service/images/arrow-left.png
+File Name: C:\Downloaded Web Sites\tsservice.by\1703-templ\service\images\arrow-left.png
+Content Type: image/png
+
+Uri: https://tsservice.by/1703-templ/service/images/arrow-right.png
+File Name: C:\Downloaded Web Sites\tsservice.by\1703-templ\service\images\arrow-right.png
+Content Type: image/png
+
+Uri: https://tsservice.by/1703-templ/service/images/call-icon.png
+File Name: C:\Downloaded Web Sites\tsservice.by\1703-templ\service\images\call-icon.png
+Content Type: image/png
+
+Uri: https://tsservice.by/1703-templ/service/images/callback-bg-catalog.jpg
+File Name: C:\Downloaded Web Sites\tsservice.by\1703-templ\service\images\callback-bg-catalog.jpg
+Content Type: image/jpeg
+
+Uri: https://tsservice.by/1703-templ/service/images/check-icon.png
+File Name: C:\Downloaded Web Sites\tsservice.by\1703-templ\service\images\check-icon.png
+Content Type: image/png
+
+Uri: https://tsservice.by/1703-templ/service/images/clock-icon.png
+File Name: C:\Downloaded Web Sites\tsservice.by\1703-templ\service\images\clock-icon.png
+Content Type: image/png
+
+Uri: https://tsservice.by/1703-templ/service/images/compare-icon-active.png
+File Name: C:\Downloaded Web Sites\tsservice.by\1703-templ\service\images\compare-icon-active.png
+Content Type: image/png
+
+Uri: https://tsservice.by/1703-templ/service/images/compare-icon.png
+File Name: C:\Downloaded Web Sites\tsservice.by\1703-templ\service\images\compare-icon.png
+Content Type: image/png
+
+Uri: https://tsservice.by/1703-templ/service/images/cross-icon-hover-red.png
+File Name: C:\Downloaded Web Sites\tsservice.by\1703-templ\service\images\cross-icon-hover-red.png
+Content Type: image/png
+
+Uri: https://tsservice.by/1703-templ/service/images/cross-icon-hover.png
+File Name: C:\Downloaded Web Sites\tsservice.by\1703-templ\service\images\cross-icon-hover.png
+Content Type: image/png
+
+Uri: https://tsservice.by/1703-templ/service/images/cross-icon.png
+File Name: C:\Downloaded Web Sites\tsservice.by\1703-templ\service\images\cross-icon.png
+Content Type: image/png
+
+Uri: https://tsservice.by/1703-templ/service/images/delete.png
+File Name: C:\Downloaded Web Sites\tsservice.by\1703-templ\service\images\delete.png
+Content Type: image/png
+
+Uri: https://tsservice.by/1703-templ/service/images/delivery-icon.png
+File Name: C:\Downloaded Web Sites\tsservice.by\1703-templ\service\images\delivery-icon.png
+Content Type: image/png
+
+Uri: https://tsservice.by/1703-templ/service/images/email-icon.png
+File Name: C:\Downloaded Web Sites\tsservice.by\1703-templ\service\images\email-icon.png
+Content Type: image/png
+
+Uri: https://tsservice.by/1703-templ/service/images/grid-icon.png
+File Name: C:\Downloaded Web Sites\tsservice.by\1703-templ\service\images\grid-icon.png
+Content Type: image/png
+
+Uri: https://tsservice.by/1703-templ/service/images/icon-edit.png
+File Name: C:\Downloaded Web Sites\tsservice.by\1703-templ\service\images\icon-edit.png
+Content Type: image/png
+
+Uri: https://tsservice.by/1703-templ/service/images/key-icon.png
+File Name: C:\Downloaded Web Sites\tsservice.by\1703-templ\service\images\key-icon.png
+Content Type: image/png
+
+Uri: https://tsservice.by/1703-templ/service/images/list-icon.png
+File Name: C:\Downloaded Web Sites\tsservice.by\1703-templ\service\images\list-icon.png
+Content Type: image/png
+
+Uri: https://tsservice.by/1703-templ/service/images/loader.gif
+File Name: C:\Downloaded Web Sites\tsservice.by\1703-templ\service\images\loader.gif
+Content Type: image/gif
+
+Uri: https://tsservice.by/1703-templ/service/images/location-icon.png
+File Name: C:\Downloaded Web Sites\tsservice.by\1703-templ\service\images\location-icon.png
+Content Type: image/png
+
+Uri: https://tsservice.by/1703-templ/service/images/main-desc-bg.jpg
+File Name: C:\Downloaded Web Sites\tsservice.by\1703-templ\service\images\main-desc-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://tsservice.by/1703-templ/service/images/mobile-arrow-down.png
+File Name: C:\Downloaded Web Sites\tsservice.by\1703-templ\service\images\mobile-arrow-down.png
+Content Type: image/png
+
+Uri: https://tsservice.by/1703-templ/service/images/mobile-arrow-up.png
+File Name: C:\Downloaded Web Sites\tsservice.by\1703-templ\service\images\mobile-arrow-up.png
+Content Type: image/png
+
+Uri: https://tsservice.by/1703-templ/service/images/phone-icon.png
+File Name: C:\Downloaded Web Sites\tsservice.by\1703-templ\service\images\phone-icon.png
+Content Type: image/png
+
+Uri: https://tsservice.by/1703-templ/service/images/search-icon.png
+File Name: C:\Downloaded Web Sites\tsservice.by\1703-templ\service\images\search-icon.png
+Content Type: image/png
+
+Uri: https://tsservice.by/1703-templ/service/images/slider-arrow-left.png
+File Name: C:\Downloaded Web Sites\tsservice.by\1703-templ\service\images\slider-arrow-left.png
+Content Type: image/png
+
+Uri: https://tsservice.by/1703-templ/service/images/slider-arrow-right.png
+File Name: C:\Downloaded Web Sites\tsservice.by\1703-templ\service\images\slider-arrow-right.png
+Content Type: image/png
+
+Uri: https://tsservice.by/1703-templ/service/images/speach-icon.png
+File Name: C:\Downloaded Web Sites\tsservice.by\1703-templ\service\images\speach-icon.png
+Content Type: image/png
+
+Uri: https://tsservice.by/1703-templ/service/images/sprite.png
+File Name: C:\Downloaded Web Sites\tsservice.by\1703-templ\service\images\sprite.png
+Content Type: image/png
+
+Uri: https://tsservice.by/1703-templ/service/images/style/arrow-down.png
+File Name: C:\Downloaded Web Sites\tsservice.by\1703-templ\service\images\style\arrow-down.png
+Content Type: image/png
+
+Uri: https://tsservice.by/1703-templ/service/images/style/arrow-up.png
+File Name: C:\Downloaded Web Sites\tsservice.by\1703-templ\service\images\style\arrow-up.png
+Content Type: image/png
+
+Uri: https://tsservice.by/1703-templ/service/images/style/auth.png
+File Name: C:\Downloaded Web Sites\tsservice.by\1703-templ\service\images\style\auth.png
+Content Type: image/png
+
+Uri: https://tsservice.by/1703-templ/service/images/style/basket.png
+File Name: C:\Downloaded Web Sites\tsservice.by\1703-templ\service\images\style\basket.png
+Content Type: image/png
+
+Uri: https://tsservice.by/1703-templ/service/images/style/fb-icon.png
+File Name: C:\Downloaded Web Sites\tsservice.by\1703-templ\service\images\style\fb-icon.png
+Content Type: image/png
+
+Uri: https://tsservice.by/1703-templ/service/images/style/filter-icon-blue.png
+File Name: C:\Downloaded Web Sites\tsservice.by\1703-templ\service\images\style\filter-icon-blue.png
+Content Type: image/png
+
+Uri: https://tsservice.by/1703-templ/service/images/style/fon-callback-index-page-60.jpg
+File Name: C:\Downloaded Web Sites\tsservice.by\1703-templ\service\images\style\fon-callback-index-page-60.jpg
+Content Type: image/jpeg
+
+Uri: https://tsservice.by/1703-templ/service/images/style/inst-icon.png
+File Name: C:\Downloaded Web Sites\tsservice.by\1703-templ\service\images\style\inst-icon.png
+Content Type: image/png
+
+Uri: https://tsservice.by/1703-templ/service/images/style/left-arrow-66.png
+File Name: C:\Downloaded Web Sites\tsservice.by\1703-templ\service\images\style\left-arrow-66.png
+Content Type: image/png
+
+Uri: https://tsservice.by/1703-templ/service/images/style/mobile-arrow-down-blue-2.png
+File Name: C:\Downloaded Web Sites\tsservice.by\1703-templ\service\images\style\mobile-arrow-down-blue-2.png
+Content Type: image/png
+
+Uri: https://tsservice.by/1703-templ/service/images/style/mobile-arrow-down-white.png
+File Name: C:\Downloaded Web Sites\tsservice.by\1703-templ\service\images\style\mobile-arrow-down-white.png
+Content Type: image/png
+
+Uri: https://tsservice.by/1703-templ/service/images/style/mobile-arrow-up-blue-2.png
+File Name: C:\Downloaded Web Sites\tsservice.by\1703-templ\service\images\style\mobile-arrow-up-blue-2.png
+Content Type: image/png
+
+Uri: https://tsservice.by/1703-templ/service/images/style/mobile-arrow-up-white.png
+File Name: C:\Downloaded Web Sites\tsservice.by\1703-templ\service\images\style\mobile-arrow-up-white.png
+Content Type: image/png
+
+Uri: https://tsservice.by/1703-templ/service/images/style/ok-icon.png
+File Name: C:\Downloaded Web Sites\tsservice.by\1703-templ\service\images\style\ok-icon.png
+Content Type: image/png
+
+Uri: https://tsservice.by/1703-templ/service/images/style/right-arrow-66.png
+File Name: C:\Downloaded Web Sites\tsservice.by\1703-templ\service\images\style\right-arrow-66.png
+Content Type: image/png
+
+Uri: https://tsservice.by/1703-templ/service/images/style/top-menu-toggle-close.png
+File Name: C:\Downloaded Web Sites\tsservice.by\1703-templ\service\images\style\top-menu-toggle-close.png
+Content Type: image/png
+
+Uri: https://tsservice.by/1703-templ/service/images/style/top-menu-toggle.png
+File Name: C:\Downloaded Web Sites\tsservice.by\1703-templ\service\images\style\top-menu-toggle.png
+Content Type: image/png
+
+Uri: https://tsservice.by/1703-templ/service/images/style/vk-icon.png
+File Name: C:\Downloaded Web Sites\tsservice.by\1703-templ\service\images\style\vk-icon.png
+Content Type: image/png
+
+Uri: https://tsservice.by/1703-templ/service/images/success.png
+File Name: C:\Downloaded Web Sites\tsservice.by\1703-templ\service\images\success.png
+Content Type: image/png
+
+Uri: https://tsservice.by/1703-templ/service/images/user-icon.png
+File Name: C:\Downloaded Web Sites\tsservice.by\1703-templ\service\images\user-icon.png
+Content Type: image/png
+
+Uri: https://tsservice.by/1703-templ/service/images/visa-icon.png
+File Name: C:\Downloaded Web Sites\tsservice.by\1703-templ\service\images\visa-icon.png
+Content Type: image/png
+
+Uri: https://tsservice.by/1703-templ/service/images/warranty-icon.png
+File Name: C:\Downloaded Web Sites\tsservice.by\1703-templ\service\images\warranty-icon.png
+Content Type: image/png
+
+Uri: https://tsservice.by/1703-templ/service/images/zoom.png
+File Name: C:\Downloaded Web Sites\tsservice.by\1703-templ\service\images\zoom.png
+Content Type: image/png
+
+Uri: https://tsservice.by/1703-templ/service/js/flipclock.js
+File Name: C:\Downloaded Web Sites\tsservice.by\1703-templ\service\js\flipclock.js
+Content Type: application/javascript
+
+Uri: https://tsservice.by/1703-templ/service/js/layout.cart.js
+File Name: C:\Downloaded Web Sites\tsservice.by\1703-templ\service\js\layout.cart.js
+Content Type: application/javascript
+
+Uri: https://tsservice.by/1703-templ/service/js/owl.carousel.js
+File Name: C:\Downloaded Web Sites\tsservice.by\1703-templ\service\js\owl.carousel.js
+Content Type: application/javascript
+
+Uri: https://tsservice.by/1703-templ/service/js/script.js
+File Name: C:\Downloaded Web Sites\tsservice.by\1703-templ\service\js\script.js
+Content Type: application/javascript
+
+Uri: https://tsservice.by/cart
+File Name: C:\Downloaded Web Sites\tsservice.by\cart.html
+Content Type: text/html
+
+Uri: https://tsservice.by/catalog
+File Name: C:\Downloaded Web Sites\tsservice.by\catalog.html
+Content Type: text/html
+
+Uri: https://tsservice.by/catalog/remont-benzoinstrumenta
+File Name: C:\Downloaded Web Sites\tsservice.by\catalog\remont-benzoinstrumenta.html
+Content Type: text/html
+
+Uri: https://tsservice.by/catalog/remont-dorojnoy-i-stroitelnoy-maloy-tehniki
+File Name: C:\Downloaded Web Sites\tsservice.by\catalog\remont-dorojnoy-i-stroitelnoy-maloy-tehniki.html
+Content Type: text/html
+
+Uri: https://tsservice.by/catalog/remont-elektrodvigateley
+File Name: C:\Downloaded Web Sites\tsservice.by\catalog\remont-elektrodvigateley.html
+Content Type: text/html
+
+Uri: https://tsservice.by/catalog/remont-elektroinstrumenta
+File Name: C:\Downloaded Web Sites\tsservice.by\catalog\remont-elektroinstrumenta.html
+Content Type: text/html
+
+Uri: https://tsservice.by/catalog/remont-generatorov
+File Name: C:\Downloaded Web Sites\tsservice.by\catalog\remont-generatorov.html
+Content Type: text/html
+
+Uri: https://tsservice.by/catalog/remont-kompressorov
+File Name: C:\Downloaded Web Sites\tsservice.by\catalog\remont-kompressorov.html
+Content Type: text/html
+
+Uri: https://tsservice.by/catalog/remont-moek-vysokogo-davleniya
+File Name: C:\Downloaded Web Sites\tsservice.by\catalog\remont-moek-vysokogo-davleniya.html
+Content Type: text/html
+
+Uri: https://tsservice.by/catalog/remont-motoblokov-i-motokultivarotorov
+File Name: C:\Downloaded Web Sites\tsservice.by\catalog\remont-motoblokov-i-motokultivarotorov.html
+Content Type: text/html
+
+Uri: https://tsservice.by/catalog/remont-sadovoy-tehniki
+File Name: C:\Downloaded Web Sites\tsservice.by\catalog\remont-sadovoy-tehniki.html
+Content Type: text/html
+
+Uri: https://tsservice.by/catalog/remont-snegouborochnoy-tehniki
+File Name: C:\Downloaded Web Sites\tsservice.by\catalog\remont-snegouborochnoy-tehniki.html
+Content Type: text/html
+
+Uri: https://tsservice.by/catalog/remont-teplovyh-pushek
+File Name: C:\Downloaded Web Sites\tsservice.by\catalog\remont-teplovyh-pushek.html
+Content Type: text/html
+
+Uri: https://tsservice.by/contacts
+File Name: C:\Downloaded Web Sites\tsservice.by\contacts.html
+Content Type: text/html
+
+Uri: https://tsservice.by/remont-benzoinstrumenta
+File Name: C:\Downloaded Web Sites\tsservice.by\remont-benzoinstrumenta.html
+Content Type: text/html
+
+Uri: https://tsservice.by/remont-elektroinstrumenta
+File Name: C:\Downloaded Web Sites\tsservice.by\remont-elektroinstrumenta.html
+Content Type: text/html
+
+Uri: https://tsservice.by/uploads/bez-nazvaniya.jpg
+File Name: C:\Downloaded Web Sites\tsservice.by\uploads\bez-nazvaniya.jpg
+Content Type: image/jpeg
+
+Uri: https://tsservice.by/uploads/cat_kategoriya-stroitelnoy-i-dorojnoy-tehniki.jpg
+File Name: C:\Downloaded Web Sites\tsservice.by\uploads\cat_kategoriya-stroitelnoy-i-dorojnoy-tehniki.jpg
+Content Type: image/jpeg
+
+Uri: https://tsservice.by/uploads/cat_remont-benzoinstrumenta-1.jpg
+File Name: C:\Downloaded Web Sites\tsservice.by\uploads\cat_remont-benzoinstrumenta-1.jpg
+Content Type: image/jpeg
+
+Uri: https://tsservice.by/uploads/cat_remont-dvigateley.png
+File Name: C:\Downloaded Web Sites\tsservice.by\uploads\cat_remont-dvigateley.png
+Content Type: image/png
+
+Uri: https://tsservice.by/uploads/cat_remont-elektroinstrumenta-1.jpg
+File Name: C:\Downloaded Web Sites\tsservice.by\uploads\cat_remont-elektroinstrumenta-1.jpg
+Content Type: image/jpeg
+
+Uri: https://tsservice.by/uploads/cat_remont-generatora.png
+File Name: C:\Downloaded Web Sites\tsservice.by\uploads\cat_remont-generatora.png
+Content Type: image/png
+
+Uri: https://tsservice.by/uploads/cat_remont-kompressorov.png
+File Name: C:\Downloaded Web Sites\tsservice.by\uploads\cat_remont-kompressorov.png
+Content Type: image/png
+
+Uri: https://tsservice.by/uploads/cat_remont-moek.png
+File Name: C:\Downloaded Web Sites\tsservice.by\uploads\cat_remont-moek.png
+Content Type: image/png
+
+Uri: https://tsservice.by/uploads/cat_remont-motoblokov-1.jpg
+File Name: C:\Downloaded Web Sites\tsservice.by\uploads\cat_remont-motoblokov-1.jpg
+Content Type: image/jpeg
+
+Uri: https://tsservice.by/uploads/cat_remont-sadovoy-tehniki-1.jpg
+File Name: C:\Downloaded Web Sites\tsservice.by\uploads\cat_remont-sadovoy-tehniki-1.jpg
+Content Type: image/jpeg
+
+Uri: https://tsservice.by/uploads/cat_remont-snegouborochnoy-tehniki-1.jpg
+File Name: C:\Downloaded Web Sites\tsservice.by\uploads\cat_remont-snegouborochnoy-tehniki-1.jpg
+Content Type: image/jpeg
+
+Uri: https://tsservice.by/uploads/cat_remont-teplovyh-pushek-1.jpg
+File Name: C:\Downloaded Web Sites\tsservice.by\uploads\cat_remont-teplovyh-pushek-1.jpg
+Content Type: image/jpeg
+
+Uri: https://tsservice.by/uploads/logotip-tehstroyservis.png
+File Name: C:\Downloaded Web Sites\tsservice.by\uploads\logotip-tehstroyservis.png
+Content Type: image/png
+
+Uri: https://tsservice.by/uploads/posle-promyvki.jpg
+File Name: C:\Downloaded Web Sites\tsservice.by\uploads\posle-promyvki.jpg
+Content Type: image/jpeg
+
+Uri: https://tsservice.by/uploads/slider/diagnostika.jpg
+File Name: C:\Downloaded Web Sites\tsservice.by\uploads\slider\diagnostika.jpg
+Content Type: image/jpeg
+
+Uri: https://tsservice.by/uploads/slider/instrumenty-Milwaukee.jpg
+File Name: C:\Downloaded Web Sites\tsservice.by\uploads\slider\instrumenty-Milwaukee.jpg
+Content Type: image/jpeg
+
+Uri: https://tsservice.by/uploads/slider/internet-magazin-24torg.by.jpg
+File Name: C:\Downloaded Web Sites\tsservice.by\uploads\slider\internet-magazin-24torg.by.jpg
+Content Type: image/jpeg
+
+Uri: https://tsservice.by/uploads/slider/remont-benzoinstrumenta.jpg
+File Name: C:\Downloaded Web Sites\tsservice.by\uploads\slider\remont-benzoinstrumenta.jpg
+Content Type: image/jpeg
+
+Uri: https://tsservice.by/uploads/slider/remont-elektroinstrumentov.jpg
+File Name: C:\Downloaded Web Sites\tsservice.by\uploads\slider\remont-elektroinstrumentov.jpg
+Content Type: image/jpeg
+
+Uri: https://tsservice.by/uploads/slider/servisnyy-tsentr.jpg
+File Name: C:\Downloaded Web Sites\tsservice.by\uploads\slider\servisnyy-tsentr.jpg
+Content Type: image/jpeg
+
+Uri: https://tsservice.by/uploads/trigger/1.png
+File Name: C:\Downloaded Web Sites\tsservice.by\uploads\trigger\1.png
+Content Type: image/png
+
+Uri: https://tsservice.by/uploads/trigger/2.png
+File Name: C:\Downloaded Web Sites\tsservice.by\uploads\trigger\2.png
+Content Type: image/png
+
+Uri: https://tsservice.by/uploads/trigger/3.png
+File Name: C:\Downloaded Web Sites\tsservice.by\uploads\trigger\3.png
+Content Type: image/png
+
+Uri: https://tsservice.by/uploads/trigger/4.png
+File Name: C:\Downloaded Web Sites\tsservice.by\uploads\trigger\4.png
+Content Type: image/png
+
+Uri: https://tsservice.by/uploads/trigger2/car-key.png
+File Name: C:\Downloaded Web Sites\tsservice.by\uploads\trigger2\car-key.png
+Content Type: image/png
+
+Uri: https://tsservice.by/uploads/trigger2/certificate.png
+File Name: C:\Downloaded Web Sites\tsservice.by\uploads\trigger2\certificate.png
+Content Type: image/png
+
+Uri: https://tsservice.by/uploads/trigger2/equipment.png
+File Name: C:\Downloaded Web Sites\tsservice.by\uploads\trigger2\equipment.png
+Content Type: image/png
+
+Uri: https://tsservice.by/uploads/trigger2/location.png
+File Name: C:\Downloaded Web Sites\tsservice.by\uploads\trigger2\location.png
+Content Type: image/png
+
+Uri: https://www.googletagmanager.com/gtag/js?id=UA-210928789-1
+File Name: C:\Downloaded Web Sites\tsservice.by\gtag\js
+Content Type: application/javascript
+
