@@ -44,7 +44,7 @@
 		margin-right: 0;
 	}
 	.mg-trigger-guarantee-3 .mg-trigger{
-		width: calc((100%-60px)/2) !important;
+		width: calc((100% - 60px)/2) !important;
 		height: 480px !important;
 	}
 }

@@ -861,8 +861,8 @@ body.grey-bg{
 }
 
 .centered{
-      max-width: 1280px;
-    margin: 0 auto;
+      max-width: 1429px;
+      margin: 0 12%;
 }
 
 .top-contacts-list {
@@ -1097,6 +1097,8 @@ body.grey-bg{
     text-decoration: none;
     margin-top: 15px;
     background: #21498a;
+    display: flex;
+
     /*border-radius: 10px;*/
 }
 
@@ -4359,7 +4361,7 @@ display: none;
     display: inline-block;
     margin: 0 20px;
     position: relative;
-    background: none !imeportant;
+    background: none !important;
     border-radius: 0px;
 }
 
@@ -7472,7 +7474,7 @@ position: absolute;
 .glavnaya-img{
 	display:block;
 	float:left;
-	width:calc((100%-60px)/3);
+	width:calc((100% - 60px)/3);
 }
 .mg-zephyr-gallery-2, .mg-zephyr-gallery-3, .mg-zephyr-gallery-4{
 	float:left;
@@ -7480,7 +7482,7 @@ position: absolute;
 }
 .mg-trigger-guarantee-3 .mg-trigger{
 	float:left !important;
-	width:calc((100%-60px)/3) !important;
+	width:calc((100% - 60px)/3) !important;
 	height:560px !important;
 }
 .mg-trigger-guarantee-3 .mg-trigger .mg-trigger-icon img{
